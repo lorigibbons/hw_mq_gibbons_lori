@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(155, 146, 246);
+}
+@media (min-width: 675px) {
+    body {
+        background-color: rgb(139, 195, 155);
+    }
+}
+@media (min-width: 999px) {
+    body {
+        background-color: rgb(151, 172, 157);
+    }
+}
+@media (min-width: 1280px) {
+    body {
+        background-color: rgb(47, 91, 59);
+    }
+}
